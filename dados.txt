@@ -1,12 +1,9 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
-
-Obrigado!!!
-
+- Wadson:
+- Engenheiro de qualidade de software:
+- Alterosa/MG:
+- Gosto de jogar video-games nas horas vagas:
+- O curso de qualidade de software da ebac mudou minha vida para melhor!:
+- A plataforma de estudos da ebac é nota 10!
 
